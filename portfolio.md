@@ -41,9 +41,6 @@
 * **[Google Code Jam 2019](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051707)**  
 準決勝進出
 
-* **[Google Code Jam 2019](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051707)**  
-準決勝進出
-
 * **[第5回ドワンゴからの挑戦状](https://atcoder.jp/contests/dwacon5th-final/standings)**  
 本選4位
 
@@ -55,11 +52,12 @@
 * **[TopCoder Open 2018](https://tco18.topcoder.com/tracks/marathon)**  
 決勝11位
 
-* **[TopCoder Open 2019](https://tco18.topcoder.com/tracks/marathon](https://tco19.topcoder.com/competition-overview/marathon/overview))**  
+* **[TopCoder Open 2019](https://tco19.topcoder.com/competition-overview/marathon/overview)**  
 決勝6位
 
 * **[hackerearth Battle of bot #6](https://www.hackerearth.com/ja/challenges/competitive/battle-of-bots-6/leaderboard/)**  
-4位 
+4位
+
 * **CODE VS for STUDENT 2016**  
 決勝5位
 
