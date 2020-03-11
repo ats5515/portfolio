@@ -1,3 +1,7 @@
+# portfolio
+
+最新版：https://github.com/ats5515/portfolio/blob/master/portfolio.md
+
 ## 学歴
 * **東京大学（2015年4月~2019年3月)**   
 東京大学システム創成学科
@@ -48,7 +52,7 @@
 * **[全国統一プログラミング王決定戦](https://atcoder.jp/contests/nikkei2019-final/standings)**  
 決勝 15 位 
  
-#### マラソン、ゲーム AI 系 
+#### マラソン、ゲームAI系 
 
 * **[TopCoder Open 2018](https://tco18.topcoder.com/tracks/marathon)**  
 決勝11位
@@ -72,3 +76,12 @@
 
 * **[HACK to the FUTURE 2020](https://atcoder.jp/contests/future-contest-2020-final-2/standings)**   
 予選：2位、本戦1：5位、本戦2：3位
+
+## blog
+http://ats5515.hatenablog.com/
+
+## github
+https://github.com/ats5515/
+
+
+
