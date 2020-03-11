@@ -11,10 +11,10 @@
 ## インターン経験
 
 * **[Preferred Networks](https://preferred.jp/en/)**  
-<br>
 効率的なブラックボックス最適化手法の開発に取り組みました。
 <br>
-ガウス過程に基づくベイズ最適化のバリエーションとして、探索範囲を制限することにより性能を落とさずに計算量を削減する手法を開発しました。[ブログ](https://tech.preferred.jp/ja/blog/limited-gp/)
+ガウス過程に基づくベイズ最適化のバリエーションとして、探索範囲を制限することにより性能を落とさずに計算量を削減する手法を開発しました。
+[ブログ](https://tech.preferred.jp/ja/blog/limited-gp/)
 
 * **[カムイキャピタル株式会社](https://www.camui-capital.com/index.html)**  
 機械学習による株の自動売買について実践的に取り組みました。
