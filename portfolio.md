@@ -19,9 +19,10 @@
 
 ## 研究　受賞歴
 * **[2019年度人工知能学会全国大会オーガナイズドセッション口頭発表部門優秀賞](https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/)**  
-"全国大会で発表された研究を表彰対象とし，特に優秀な研究を発表した者に授与される。"  
+"全国大会で発表された研究を表彰対象とし，特に優秀な研究を発表した者に授与される。" 
+論文リンク：https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_3F3OS14a03/_article/-char/ja  
 発表タイトル：5人人狼における戦略進化のシミュレーション  
-コミュニケーションゲーム「人狼」のレギュレーションの一つである5人人狼を対象とし戦略進化のシミュレーションを行った研究です。
+コミュニケーションゲーム「人狼」のレギュレーションの一つである5人人狼を対象とし戦略進化のシミュレーションを行った研究です。  
 ベイズ推定を用いた優位戦略の発見の方法を提案し、戦略進化の非収束性を明らかにしました。
 
 * **[Tenth International Automated Negotiating Agents Competition 2019 (ANAC 2019)Werewolf League 1st place](http://web.tuat.ac.jp/~katfuji/ANAC2019/)**  
