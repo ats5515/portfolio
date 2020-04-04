@@ -28,7 +28,11 @@
 
 * **[Tenth International Automated Negotiating Agents Competition 2019 (ANAC 2019)Werewolf League 1st place](http://web.tuat.ac.jp/~katfuji/ANAC2019/)**  
 [第一回国際人狼知能大会](http://aiwolf.org/archives/2262)での優勝に対して、IJCAIで開かれたワークショップANACで表彰されました。
-
+## 開発
+* **[Opt-Judge](https://judge.ats5515.net/)**  
+「マラソン系」と呼ばれる、最適化問題に特化したオンラインジャッジのwebサービス(開発中)<br>
+※最適化問題・・・ある制約条件の下で目的関数を最小化（最大化）するような解を求める問題。本サービスでは特に、スコア（目的関数の値）が連続的で、厳密解を時間内に見つけるのが困難であるような問題を扱う。<br>
+※オンラインジャッジ・・・ユーザーがソースコードを提出し、サーバ側で自動採点する仕組み<br>
 ## プログラミングコンテスト
 ### レーティング
 |サイト|ID|レーティング\[色\]|URL|
