@@ -39,7 +39,7 @@
 | ---- |  --- | ---- | ----   |
 | Atcoder |ats5515| 2839\[赤\] | https://atcoder.jp/users/ats5515   |
 |codeforces|ATS|2622\[赤\]|http://codeforces.com/profile/ATS |
-|Topcoder(Algorithm)|atsT5515|2002\[赤\]|https://www.topcoder.com/members/atsT5515 |
+|Topcoder(Algorithm)|atsT5515|2230\[赤\]|https://www.topcoder.com/members/atsT5515 |
 |Topcoder(Marathon)|atsT5515|2667\[赤\]|https://www.topcoder.com/members/atsT5515|
 
 ### 入賞歴
