@@ -37,7 +37,7 @@
 ### レーティング
 |サイト|ID|レーティング\[色\]|URL|
 | ---- |  --- | ---- | ----   |
-| Atcoder |ats5515| 2839\[赤\] | https://atcoder.jp/users/ats5515   |
+| Atcoder |ats5515| 2823\[赤\] | https://atcoder.jp/users/ats5515   |
 |codeforces|ATS|2622\[赤\]|http://codeforces.com/profile/ATS |
 |Topcoder(Algorithm)|atsT5515|2230\[赤\]|https://www.topcoder.com/members/atsT5515 |
 |Topcoder(Marathon)|atsT5515|2667\[赤\]|https://www.topcoder.com/members/atsT5515|
